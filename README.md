@@ -2,7 +2,8 @@
 <img src= "images/4.jpg">
 <img src= "images/5.jpg">
 <img src= "images/6.jpg">
-## Equipo
+
+# Equipo
 
 <img src= "images/hector.jpeg">
 <img src= "images/julian.jpeg">
