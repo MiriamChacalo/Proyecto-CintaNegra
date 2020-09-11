@@ -3,5 +3,5 @@
 
 <img src= "images/hector.jpeg">
 <img src= "images/julian.jpeg">
-<img src= "images/miriam.jepg">
+<img src= "images/miriam.jpeg">
 
