@@ -1,7 +1,7 @@
 # DEV.F PROYECTO - CINTA NEGRA
 ## Equipo
 
-<img src= "images/hector">
-<img src= "images/julian">
-<img src= "images/miriam">
+<img src= "images/hector.jpeg">
+<img src= "images/julian.jpeg">
+<img src= "images/miriam.jepg">
 
